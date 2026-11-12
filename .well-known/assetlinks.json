@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.madaminovdiyorbek217.raskroy",
+        "sha256_cert_fingerprints": ["39:57:E4:09:BB:6A:C3:27:49:7D:96:FF:F8:00:A6:E5:24:BC:E3:B3:2F:45:F0:37:31:98:DA:7E:E7:D1:61:69"]
+      }
+    }]
